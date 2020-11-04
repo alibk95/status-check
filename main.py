@@ -16,6 +16,6 @@ def get(url):
     return result
 
 # alias per="python3 ~/permesso-di-soggiorno/main.py"
-url = 'https://questure.poliziadistato.it/stranieri/?mime=1&lang=english&pratica=061556289845'
+url = 'https://questure.poliziadistato.it/stranieri/?mime=1&lang=english&pratica=xxxxx(Permesso code)'
 get(url)
 
